@@ -1,6 +1,7 @@
 # Stock Price Time Series Analysis and Forecasting
 
-![91867Screenshot (125)](https://img.etimg.com/thumb/height-450,width-600,imgsize-180242,msid-87946375/.jpg)
+![86199-business-analytics](https://user-images.githubusercontent.com/88341388/232017540-207255c3-b191-4482-a1ed-08bfbbf67c7f.gif)
+
 
 
 ### Background: 
