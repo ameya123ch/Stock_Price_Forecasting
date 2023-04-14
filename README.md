@@ -19,3 +19,7 @@ The system is expected to achieve high accuracy in stock price forecasting, whic
 
 ### Conclusion: 
 The proposed stock price time series analysis and forecasting system using LSTM and Facebook Prophet will help investors and financial institutions improve their stock price forecasting models and make more accurate investment decisions. It will be an essential tool for stockbrokers, financial advisors, and other professionals involved in stock market investments.
+
+### Deployed Web app
+https://huggingface.co/spaces/ameya123ch/stockmarket
+
